@@ -1,4 +1,5 @@
-### Hi there 👋
+![juan](https://user-images.githubusercontent.com/12957692/116809591-0a5ba680-ab3f-11eb-974a-71893d986383.gif)
+
 
 <!--
 **juanscolari/juanscolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
