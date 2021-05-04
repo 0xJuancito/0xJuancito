@@ -8,4 +8,4 @@ Hi! I'm Juan. I'm a Backend Engineer working on Cloud Solutions.
 - 🤖⠀I'd like to work on some Machine Learning projects in the future.
 - ⛓️⠀I’m a Blockchain and Crypto enthusiast.
 - 🎹⠀I play piano and look into ways of integrating music and coding.
-- 📫⠀You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/)
+- 📫⠀You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/).
