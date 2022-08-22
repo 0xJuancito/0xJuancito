@@ -1,6 +1,12 @@
 Hi! I'm Juan!
 
-- ⛓️ I'm currently focused on the Crypto/Blockchain ecosystem.
-- 📜 I'm a certified AWS Solutions Architect.
-- 🎹 I play piano and look into ways of integrating music and coding.
+- 🛠 Web3 buidler.
+- 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/).
+
+Hackathons / Competitions
+
+- [Paradigm CTF](https://ctf.paradigm.xyz/) | August 20-22, 2022
+- [DeFi Wonderland Solidity Hacking Competition](https://www.eventbrite.com.ar/e/solidity-hacking-competition-ctf-tickets-397071099347) | August 13, 2022 | 🥇 1st place
+- [HackFS by ETHGlobal](https://hackfs.com/) | [POAP](https://app.poap.xyz/token/5408677) | July 8 - 27, 2022
+- [LFGrow by ETHGlobal](https://lfgrow.ethglobal.com/) | [POAP](https://app.poap.xyz/token/4623985) | March 18-30, 2022
