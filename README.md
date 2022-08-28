@@ -30,3 +30,8 @@
   - [Intro to Web3](https://buildspace.so/p/build-solidity-web3-app) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4827) | **Polygon**
   - [Build a Solana App](https://buildspace.so/p/build-solana-web3-app) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12597) | **Solana**
   - [Solana NFT Collection](https://buildspace.so/p/ship-solana-nft-collection) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12999) | **Solana**
+- ETH Latam Buenos Aires 2022
+  - Unlock an endless world of possibilities via CoW Protocol SDK | **Cow Protocol**
+  - Intro to Lens Protocol | **Lens Protocol**
+  - Cool projects on StarkNet that wouldn't be possible on L1 | **Starknet** | **Cairo**
+  - Getting started with Cairo for StarkNet | [POAP](https://app.poap.xyz/token/5490942) | **Starknet** | **Cairo**
