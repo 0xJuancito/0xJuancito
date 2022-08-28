@@ -15,6 +15,7 @@
 
 #### Hackathons / Competitions
 
+- [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105) | August 27-28, 2022
 - [Paradigm CTF](https://ctf.paradigm.xyz/) | August 20-22, 2022 | 🎖 [59/414](https://ctftime.org/event/1719)
 - [DeFi Wonderland Solidity Hacking Competition](https://www.eventbrite.com.ar/e/solidity-hacking-competition-ctf-tickets-397071099347) | August 13, 2022 | 🥇 **1st place**
 - [HackFS by ETHGlobal](https://hackfs.com/) | [POAP](https://app.poap.xyz/token/5408677) | July 8 - 27, 2022
@@ -22,7 +23,6 @@
 
 #### Workshops / Courses
 
-- [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105) | **Solidity**
 - [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Cardano**
 - [Buildspace](https://buildspace.so/)
   - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763) | **Polygon**
