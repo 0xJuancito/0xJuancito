@@ -22,6 +22,7 @@
 
 #### Workshops / Courses
 
+- [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105) | **Solidity**
 - [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Cardano**
 - [Buildspace](https://buildspace.so/)
   - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763) | **Polygon**
