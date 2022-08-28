@@ -24,8 +24,8 @@
 
 - [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Cardano**
 - [Buildspace](https://buildspace.so/)
-  - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | **Polygon** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763)
-  - [Build a Web3 App: Mint Your Own NFT collection](https://buildspace.so/p/mint-nft-collection) | **Polygon** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3388)
-  - [Intro to Web3](https://buildspace.so/p/build-solidity-web3-app) | **Polygon** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4827)
-  - [Build a Solana App](https://buildspace.so/p/build-solana-web3-app) | **Solana** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12597)
-  - [Solana NFT Collection](https://buildspace.so/p/ship-solana-nft-collection) | **Solana** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12999)
+  - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763) | **Polygon**
+  - [Build a Web3 App: Mint Your Own NFT collection](https://buildspace.so/p/mint-nft-collection) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3388) | **Polygon**
+  - [Intro to Web3](https://buildspace.so/p/build-solidity-web3-app) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4827) | **Polygon**
+  - [Build a Solana App](https://buildspace.so/p/build-solana-web3-app) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12597) | **Solana**
+  - [Solana NFT Collection](https://buildspace.so/p/ship-solana-nft-collection) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12999) | **Solana**
