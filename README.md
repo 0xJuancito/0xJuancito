@@ -4,7 +4,11 @@
 - 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/).
 
-#### Solidity CTF solutions & writeups
+#### Web3 Side Projects
+
+- [Who is in Lens?](https://who-is-in-lens.vercel.app/) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens)
+
+#### Solidity CTF Solutions & Writeups
 
 - [Capture The Ether](https://github.com/juanscolari/capture-the-ether-solutions)
 - [The Ethernaut](https://github.com/juanscolari/ethernaut-solutions) WIP 🚧
@@ -19,7 +23,7 @@
 #### Workshops / Courses
 
 - [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Cardano**
-- Buildspace
+- [Buildspace](https://buildspace.so/)
   - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | **Polygon** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763)
   - [Build a Web3 App: Mint Your Own NFT collection](https://buildspace.so/p/mint-nft-collection) | **Polygon** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3388)
   - [Intro to Web3](https://buildspace.so/p/build-solidity-web3-app) | **Polygon** | [NFT Badge](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4827)
