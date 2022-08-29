@@ -1,9 +1,13 @@
-#### Hi! I'm Juan!
+# Hi! I'm Juan!
+
+#### About me
 
 - 🛠 Buidler.
 - 💎 web2 -> web3 
 - 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/).
+
+## My Web3 journey
 
 #### Web3 Side Projects
 
