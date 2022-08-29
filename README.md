@@ -24,7 +24,7 @@
 
 #### Courses / Workshops
 
-- [Blockchain, Solidity, and Full Stack Web3 Development](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | [NFT](https://stratosnft.io/juancito.eth?collections=collection%3D0xaAcb0B62aEB7Db938f12161Da0E45fC3B2B34179) | **Solidity**
+- [Blockchain, Solidity, and Full Stack Web3 Development](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | [NFT](https://stratosnft.io/juancito.eth?collections=collection%3D0xaAcb0B62aEB7Db938f12161Da0E45fC3B2B34179%26collection%3D0xA457A0F9b6EDbEc66941D7Ed1D4d4834330ABf52) | **Solidity**
 - [Buildspace](https://buildspace.so/)
   - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763) | **Polygon**
   - [Build a Web3 App: Mint Your Own NFT collection](https://buildspace.so/p/mint-nft-collection) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3388) | **Polygon**
