@@ -24,7 +24,6 @@
 
 #### Workshops / Courses
 
-- [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Cardano**
 - [Buildspace](https://buildspace.so/)
   - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763) | **Polygon**
   - [Build a Web3 App: Mint Your Own NFT collection](https://buildspace.so/p/mint-nft-collection) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3388) | **Polygon**
@@ -36,3 +35,4 @@
   - Intro to Lens Protocol | **Lens Protocol**
   - Cool projects on StarkNet that wouldn't be possible on L1 | **Starknet** | **Cairo**
   - Getting started with Cairo for StarkNet | [POAP](https://app.poap.xyz/token/5490942) | **Starknet** | **Cairo**
+- [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Cardano**
