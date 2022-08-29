@@ -7,7 +7,7 @@
 - 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/).
 
-## My Web3 journey
+## My Web3 Journey
 
 #### Web3 Side Projects
 
