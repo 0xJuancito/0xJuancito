@@ -37,3 +37,4 @@
   - Cool projects on StarkNet that wouldn't be possible on L1 | **Cairo** | **Starknet**
   - Getting started with Cairo for StarkNet | [POAP](https://app.poap.xyz/token/5490942) | **Cairo** | **Starknet**
 - [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Plutus** | **Cardano**
+- [Crypto Zombies](https://cryptozombies.io/en/course/) | **Solidity**
