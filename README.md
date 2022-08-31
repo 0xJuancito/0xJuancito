@@ -11,7 +11,7 @@
 
 #### Web3 Side Projects
 
-- [Who is in Lens?](https://who-is-in-lens.vercel.app/) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens)
+- [Who is in Lens?](https://who-is-in-lens.vercel.app/) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens) | [Twitter Highlight](https://twitter.com/StaniKulechov/status/1564333385958424577)
 
 #### Solidity CTF Solutions & Writeups
 
