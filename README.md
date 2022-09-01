@@ -2,8 +2,8 @@
 
 #### About me
 
-- 🛠 Buidler.
-- 💎 web2 -> web3 
+- 🛠 Long time Buidler.
+- 💎 Transitioning to a Smart Contracts / Blockchain Engineer role.
 - 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/).
 
@@ -18,9 +18,9 @@
   - [Decentralized Content Server](https://github.com/decentraland/catalyst)
   - [Catalysts Nodes Infrastructure](https://github.com/decentraland/catalyst-owner)
 
-#### Web3 Side Projects
+#### Side Projects
 
-- [Who is in Lens?](https://who-is-in-lens.vercel.app/) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens-web) | [Twitter Highlight](https://twitter.com/StaniKulechov/status/1564333385958424577)
+- [Who is in Lens?](https://inlens.xyz) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens-web) | [Twitter Highlight](https://twitter.com/StaniKulechov/status/1564333385958424577)
 
 #### Solidity CTF Solutions & Writeups
 
