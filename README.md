@@ -57,7 +57,7 @@
 
 - [Ethereum for Web Developers](https://www.amazon.com/gp/product/1484252772) | **Ethereum** | **Solidity**
 - [How to DeFi](https://www.amazon.com/gp/product/B098GT2PSG) | **DeFi**
-- [How to DeFi: Advanced](https://www.amazon.com/gp/product/B098H215P3) | **DeFi
+- [How to DeFi: Advanced](https://www.amazon.com/gp/product/B098H215P3) | **DeFi**
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) | **Bitcoin**
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) | **Ethereum**
 - [Out of the Ether](https://www.amazon.com/gp/product/1119602939) | **Ethereum** | **History**
