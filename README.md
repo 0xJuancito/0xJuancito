@@ -9,6 +9,13 @@
 
 ## My Web3 Journey
 
+#### Contributions
+
+- Decentraland:
+  - [Communications Protocol v3](https://github.com/decentraland/comms-v3/blob/main/docs/comms.md)
+  - [Decentralized Content Server](https://github.com/decentraland/catalyst)
+  - [Catalysts Nodes Infrastructure](https://github.com/decentraland/catalyst-owner)
+
 #### Web3 Side Projects
 
 - [Who is in Lens?](https://who-is-in-lens.vercel.app/) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens-web) | [Twitter Highlight](https://twitter.com/StaniKulechov/status/1564333385958424577)
