@@ -9,6 +9,8 @@
 
 ## My Web3 Journey
 
+### Code
+
 #### Contributions
 
 - Decentraland:
@@ -24,6 +26,10 @@
 
 - [Capture The Ether](https://github.com/juanscolari/capture-the-ether-solutions)
 - [The Ethernaut](https://github.com/juanscolari/ethernaut-solutions) WIP 🚧
+
+---
+
+### Training
 
 #### Hackathons / Competitions
 
