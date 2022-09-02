@@ -25,7 +25,7 @@
 #### Solidity CTF Solutions & Writeups
 
 - [Capture The Ether](https://github.com/juanscolari/capture-the-ether-solutions)
-- [The Ethernaut](https://github.com/juanscolari/ethernaut-solutions) WIP 🚧
+- [The Ethernaut](https://github.com/juanscolari/ethernaut-solutions)
 
 ---
 
