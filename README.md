@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🛠 Long time Buidler.
+- 🛠 Full-time Buidler.
 - 💎 Transitioning to a Smart Contracts / Blockchain Engineer role.
 - 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/juanscolari) and [LinkedIn](https://www.linkedin.com/in/juanscolari/).
