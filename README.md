@@ -32,6 +32,10 @@
 
 ### Training
 
+#### Bootcamps
+
+- [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20
+
 #### Hackathons / Competitions
 
 - [Bear Builders Hackathon](https://twitter.com/bear_builders) | [POAP](https://app.poap.xyz/token/5633444) | September 16-17, 2022 | 🎖 4th place (Special mention)
