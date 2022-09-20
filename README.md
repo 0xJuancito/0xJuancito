@@ -30,8 +30,6 @@
 
 ---
 
-### Training
-
 #### Bootcamps
 
 - [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 | **Cairo** | **Starknet**
