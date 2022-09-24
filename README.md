@@ -32,7 +32,7 @@
 
 #### Bootcamps
 
-- [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 | **Cairo** | **Starknet**
+- [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 2022 | **Cairo** | **Starknet**
 
 #### Smart Contracts Hacking Competitions
 
