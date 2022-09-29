@@ -49,6 +49,7 @@
 
 #### Workshops
 
+- [Starknet in Spanish](https://www.meetup.com/defilatam/events/288615331/) | [POAP](https://app.poap.xyz/token/5631142) | **Cairo** | **Starknet** | September 2022
 - ETH Latam Buenos Aires | August 11-13 2022
   - Unlock an endless world of possibilities via CoW Protocol SDK | **Cow Protocol**
   - Intro to Lens Protocol | **Lens Protocol**
