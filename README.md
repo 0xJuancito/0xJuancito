@@ -43,7 +43,7 @@
 #### Hackathons
 
 - [Bear Builders Hackathon](https://twitter.com/bear_builders) | [POAP](https://app.poap.xyz/token/5633444) | September 16-17, 2022 | 🎖 4th place (Special mention)
-  - Built [Stake Together](https://github.com/nicobevilacqua/StakeTogether-BearBuildersHackathon) | Crowfunding Ethereum validators in Latin America
+  - Built [Stake Together](https://github.com/nicobevilacqua/StakeTogether) | Crowfunding Ethereum validators in Latin America
 - [HackFS by ETHGlobal](https://hackfs.com/) | [POAP](https://app.poap.xyz/token/5408677) | July 8-27, 2022
 - [LFGrow by ETHGlobal](https://lfgrow.ethglobal.com/) | [POAP](https://app.poap.xyz/token/4623985) | March 18-30, 2022
 
