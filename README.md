@@ -9,7 +9,7 @@
 
 ## My Web3 Journey
 
-### Code
+### GitHub Repositories
 
 #### Contributions
 
@@ -27,6 +27,12 @@
 - [Capture The Ether](https://github.com/juanscolari/capture-the-ether-solutions)
 - [The Ethernaut](https://github.com/juanscolari/ethernaut-solutions)
 - [Damn Vulnerable DeFi](https://github.com/juanscolari/damn-vulnerable-defi-solutions) WIP 🚧
+
+#### Awesome Lists
+
+- [awesome-lens-protocol](https://github.com/0xJuancito/awesome-lens-protocol) - A curated list of awesome Lens Protocol projects, resources, libraries, tools and more
+- [awesome-zksync](https://github.com/0xJuancito/awesome-zksync) - A curated list of awesome zkSync resources
+- [awesome-plutus](https://github.com/0xJuancito/awesome-plutus) - A curated list of awesome Plutus resources for the Cardano platform
 
 ---
 
