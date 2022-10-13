@@ -5,7 +5,7 @@
 - 🛠 Full-time Buidler.
 - 💎 Ethereum.
 - 🎹 Piano player integrating music and code.
-- 📫 You can reach me on [Twitter](https://twitter.com/juanscolari) and [Lens](https://lenster.xyz/u/juancito.lens).
+- 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens).
 
 ## My Web3 Journey
 
