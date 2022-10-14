@@ -20,7 +20,7 @@
 
 #### Side Projects
 
-- [Who is in Lens?](https://inlens.xyz) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens) | [Twitter Highlight](https://twitter.com/StaniKulechov/status/1564333385958424577)
+- [inlens](https://inlens.xyz) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens) | [Twitter Highlight](https://twitter.com/StaniKulechov/status/1564333385958424577)
 
 #### Solidity CTF Solutions & Writeups
 
