@@ -20,7 +20,8 @@
 
 #### Side Projects
 
-- [inlens.xyz](https://inlens.xyz) | Find your friends from Twitter in Lens Protocol 🌿 | [Code](https://github.com/juanscolari/who-is-in-lens) | [Twitter Highlight](https://twitter.com/StaniKulechov/status/1564333385958424577)
+- [InLens](https://github.com/juanscolari/inlens) | Find your friends from Twitter in Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
+- [Polytonal](https://github.com/0xJuancito/polytonal) - Track all your Harmony wallets in one place | **Harmony** | **Covalent**
 
 #### Solidity CTF Solutions & Writeups
 
