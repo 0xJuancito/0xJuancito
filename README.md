@@ -13,7 +13,7 @@
 
 #### Contributions
 
-- Decentraland:
+- **Decentraland**
   - [Communications Protocol v3](https://github.com/decentraland/comms-v3/blob/main/docs/comms.md)
   - [Decentralized Content Server](https://github.com/decentraland/catalyst)
   - [Catalysts Nodes Infrastructure](https://github.com/decentraland/catalyst-owner)
