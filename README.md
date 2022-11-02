@@ -7,13 +7,9 @@
 - 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens).
 
-## My Web3 Journey
+## Web3 Contributions
 
-### GitHub Repositories
-
-#### Contributions
-
-- **Decentraland**
+#### Decentraland
   - [Communications Protocol v3](https://github.com/decentraland/comms-v3/blob/main/docs/comms.md)
   - [Decentralized Content Server](https://github.com/decentraland/catalyst)
   - [Catalysts Nodes Infrastructure](https://github.com/decentraland/catalyst-owner)
@@ -35,13 +31,9 @@
 - [awesome-zksync](https://github.com/0xJuancito/awesome-zksync) - A curated list of awesome zkSync resources
 - [awesome-plutus](https://github.com/0xJuancito/awesome-plutus) - A curated list of awesome Plutus resources for the Cardano platform
 
----
+## Web3 Competitions
 
-#### Bootcamps
-
-- [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 2022 | **Cairo** | **Starknet**
-
-#### Smart Contracts Hacking Competitions
+#### Smart Contracts Hacking
 
 - [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105) | August 27-28, 2022
 - [Paradigm CTF](https://ctf.paradigm.xyz/) | [POAP](https://app.poap.xyz/token/5580892) | August 20-22, 2022 | 🎖 [59/414](https://ctftime.org/event/1719)
@@ -49,10 +41,16 @@
 
 #### Hackathons
 
-- [Bear Builders Hackathon](https://twitter.com/bear_builders) | [POAP](https://app.poap.xyz/token/5633444) | September 16-17, 2022 | 🎖 4th place (Special mention)
+- [Bear Builders Hackathon](https://twitter.com/bear_builders) | [POAP](https://app.poap.xyz/token/5633444) | September 16-17, 2022 | 🎖 **4th place** (Special mention)
   - Built [Stake Together](https://github.com/nicobevilacqua/StakeTogether) | Crowfunding Ethereum validators in Latin America
 - [HackFS by ETHGlobal](https://hackfs.com/) | [POAP](https://app.poap.xyz/token/5408677) | July 8-27, 2022
 - [LFGrow by ETHGlobal](https://lfgrow.ethglobal.com/) | [POAP](https://app.poap.xyz/token/4623985) | March 18-30, 2022
+
+## Web3 Education
+
+#### Bootcamps
+
+- [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 2022 | **Cairo** | **Starknet**
 
 #### Workshops
 
