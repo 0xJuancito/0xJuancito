@@ -28,7 +28,7 @@
 
 #### Awesome Lists
 
-- [awesome-lens-protocol](https://github.com/0xJuancito/awesome-lens-protocol) - A curated list of awesome Lens Protocol projects, resources, libraries, tools and more
+- [awesome-lens-protocol](https://github.com/0xJuancito/awesome-lens-protocol) - A curated list of awesome Lens Protocol projects, resources, libraries, tools and more | **⭐️ Popular**
 - [awesome-zksync](https://github.com/0xJuancito/awesome-zksync) - A curated list of awesome zkSync resources
 - [awesome-plutus](https://github.com/0xJuancito/awesome-plutus) - A curated list of awesome Plutus resources for the Cardano platform
 
