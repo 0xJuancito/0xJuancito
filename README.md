@@ -24,6 +24,7 @@
 - [Capture The Ether](https://github.com/juanscolari/capture-the-ether-solutions)
 - [The Ethernaut](https://github.com/juanscolari/ethernaut-solutions)
 - [Damn Vulnerable DeFi](https://github.com/juanscolari/damn-vulnerable-defi-solutions)
+- [Solutions to the Proof of Hack Protocol](https://github.com/0xJuancito/proof-of-hack-protocol-solutions) | 🚧 **WIP**
 
 #### Awesome Lists
 
