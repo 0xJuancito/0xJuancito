@@ -37,8 +37,8 @@
 
 #### Smart Contracts Hacking
 
-- [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105) | August 27-28, 2022
-- [Paradigm CTF](https://ctf.paradigm.xyz/) | [POAP](https://app.poap.xyz/token/5580892) | August 20-22, 2022 | 🎖 [59/414](https://ctftime.org/event/1719)
+- [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105)
+- [Paradigm CTF](https://ctf.paradigm.xyz/) | [POAP](https://app.poap.xyz/token/5580892) | 🎖 [59/414](https://ctftime.org/event/1719)
 - [DeFi Wonderland Solidity Hacking Competition](https://www.eventbrite.com.ar/e/solidity-hacking-competition-ctf-tickets-397071099347) | August 13, 2022 | 🥇 **1st place**
 
 #### Hackathons
