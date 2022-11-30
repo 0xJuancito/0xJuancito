@@ -44,7 +44,7 @@
 #### Hackathons
 
 - [Moralis - Defining DeFi Hackathon](https://moralis.io/google-hackathon/) | **Fantom** | 🥈 **2nd place** | [Presentation](https://youtu.be/qzNgtgcRnwg?t=6942)
-- [Encode Harmony Hackathon](https://www.encode.club/harmony-hackathon) - **Harmony** | **Covalent** | **1st place** | [Presentation](https://www.youtube.com/watch?v=62hrsmOShhg&t=1176s)
+- [Encode Harmony Hackathon](https://www.encode.club/harmony-hackathon) - **Harmony** | **Covalent** | 🥇 **1st place** | [Presentation](https://www.youtube.com/watch?v=62hrsmOShhg&t=1176s)
 - [Bear Builders Hackathon](https://twitter.com/bear_builders) | [POAP](https://app.poap.xyz/token/5633444) | September 16-17, 2022 | 🎖 **4th place** (Special mention)
   - Built [Stake Together](https://github.com/nicobevilacqua/StakeTogether) | Crowfunding Ethereum validators in Latin America
 - [HackFS by ETHGlobal](https://hackfs.com/) | [POAP](https://app.poap.xyz/token/5408677) | July 8-27, 2022
