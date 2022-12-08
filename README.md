@@ -16,7 +16,7 @@
 
 #### Side Projects
 
-- [InLens](https://github.com/0xJuancito/inlens) | Find your friends from Twitter in Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
+- [inlens](https://github.com/0xJuancito/inlens) | Find your friends from Twitter in Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
 - [Lens Lists](https://github.com/0xJuancito/lenslists) | Discover, create, and share awesome lists on Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
 - [Polytonal](https://github.com/0xJuancito/polytonal) - Track all your Harmony wallets in one place | **Harmony** | **Covalent** | 🥇 **Hackathon Winner**
 - [Non-Fungible Insurance](https://youtu.be/qzNgtgcRnwg?t=6942) - P2P Insurance for NFTs. Protect from floor price drops. | **Fantom** | **DeFi** | 🥈 **2nd place in Hackathon**
