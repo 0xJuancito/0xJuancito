@@ -1,4 +1,4 @@
-# Hi! I'm Juancito!
+# Gm! I'm Juancito!
 
 #### About me
 
@@ -16,15 +16,16 @@
 
 #### Side Projects
 
-- [InLens](https://github.com/juanscolari/inlens) | Find your friends from Twitter in Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
+- [InLens](https://github.com/0xJuancito/inlens) | Find your friends from Twitter in Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
+- [Lens Lists](https://github.com/0xJuancito/lenslists) | Find your friends from Twitter in Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
 - [Polytonal](https://github.com/0xJuancito/polytonal) - Track all your Harmony wallets in one place | **Harmony** | **Covalent** | 🥇 **Hackathon Winner**
 - [Non-Fungible Insurance](https://youtu.be/qzNgtgcRnwg?t=6942) - P2P Insurance for NFTs. Protect from floor price drops. | **Fantom** | **DeFi** | 🥈 **2nd place in Hackathon**
 
 #### Solidity CTF Solutions & Writeups
 
-- [Capture The Ether](https://github.com/juanscolari/capture-the-ether-solutions)
-- [The Ethernaut](https://github.com/juanscolari/ethernaut-solutions)
-- [Damn Vulnerable DeFi](https://github.com/juanscolari/damn-vulnerable-defi-solutions)
+- [Capture The Ether](https://github.com/0xJuancito/capture-the-ether-solutions)
+- [The Ethernaut](https://github.com/0xJuancito/ethernaut-solutions)
+- [Damn Vulnerable DeFi](https://github.com/0xJuancito/damn-vulnerable-defi-solutions)
 - [Solutions to the Proof of Hack Protocol](https://github.com/0xJuancito/proof-of-hack-protocol-solutions) | 🚧 **WIP**
 
 #### Awesome Lists
