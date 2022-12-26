@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🛠 web3 Builder.
+- 🛠 web3 builder.
 - 💎 Ethereum.
 - 🎹 Piano player integrating music and code.
 - 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens).
