@@ -27,7 +27,7 @@
 - [The Ethernaut](https://github.com/0xJuancito/ethernaut-solutions)
 - [Damn Vulnerable DeFi](https://github.com/0xJuancito/damn-vulnerable-defi-solutions)
 - [Proof of Hack Protocol](https://github.com/0xJuancito/proof-of-hack-protocol-solutions) | 🚧 **WIP**
-- [Quill CTF](https://github.com/0xJuancito/quill-ctf-solutions)
+- [Quill CTF](https://github.com/0xJuancito/quill-ctf-solutions) | 🚧 **To Be Released**
 
 #### Awesome Lists
 
