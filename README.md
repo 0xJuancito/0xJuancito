@@ -26,7 +26,8 @@
 - [Capture The Ether](https://github.com/0xJuancito/capture-the-ether-solutions)
 - [The Ethernaut](https://github.com/0xJuancito/ethernaut-solutions)
 - [Damn Vulnerable DeFi](https://github.com/0xJuancito/damn-vulnerable-defi-solutions)
-- [Solutions to the Proof of Hack Protocol](https://github.com/0xJuancito/proof-of-hack-protocol-solutions) | 🚧 **WIP**
+- [Proof of Hack Protocol](https://github.com/0xJuancito/proof-of-hack-protocol-solutions) | 🚧 **WIP**
+- [Quill CTF](https://github.com/0xJuancito/quill-ctf-solutions)
 
 #### Awesome Lists
 
