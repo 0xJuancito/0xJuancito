@@ -25,10 +25,10 @@
 
 #### Solidity CTF Solutions & Writeups
 
-- [Capture The Ether](https://github.com/0xJuancito/capture-the-ether-solutions)
-- [The Ethernaut](https://github.com/0xJuancito/ethernaut-solutions)
+- [Capture The Ether CTF](https://github.com/0xJuancito/capture-the-ether-solutions)
+- [The Ethernaut CTF](https://github.com/0xJuancito/ethernaut-solutions)
 - [Damn Vulnerable DeFi](https://github.com/0xJuancito/damn-vulnerable-defi-solutions)
-- [Proof of Hack Protocol](https://github.com/0xJuancito/proof-of-hack-protocol-solutions) | 🚧 **WIP**
+- [Eko 2022 CTF](https://github.com/0xJuancito/eko-2022-ctf-solutions) | 🚧 **WIP**
 - [Quill CTF](https://github.com/0xJuancito/quill-ctf-solutions) | 🚧 **To Be Released**
 
 #### Awesome Lists
