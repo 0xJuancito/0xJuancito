@@ -21,6 +21,7 @@
 - [Polytonal](https://github.com/0xJuancito/polytonal) - Track all your Harmony wallets in one place | **Harmony** | **Covalent** | 🥇 **Hackathon Winner**
 - [Non-Fungible Insurance](https://youtu.be/qzNgtgcRnwg?t=6942) - P2P Insurance for NFTs. Protect from floor price drops. | **Fantom** | **DeFi** | 🥈 **2nd place in Hackathon**
 - [Stake Together](https://github.com/nicobevilacqua/StakeTogether) - Decentralized crowdfunding for running Ethereum Validators in Latin America. | **Ethereum**
+- Music Starks - Create algorithmic music and store it on-chain | **Starknet** | 🚧 To Be Released
 
 
 #### Solidity CTF Solutions & Writeups
