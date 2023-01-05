@@ -28,7 +28,7 @@
 - [Capture The Ether CTF](https://github.com/0xJuancito/capture-the-ether-solutions)
 - [The Ethernaut CTF](https://github.com/0xJuancito/ethernaut-solutions)
 - [Damn Vulnerable DeFi](https://github.com/0xJuancito/damn-vulnerable-defi-solutions)
-- [Eko 2022 CTF](https://github.com/0xJuancito/eko-2022-ctf-solutions) | 🚧 **WIP**
+- [Eko 2022 CTF](https://github.com/0xJuancito/eko-2022-ctf-solutions)
 - [Quill CTF](https://github.com/0xJuancito/quill-ctf-solutions) | 🚧 **To Be Released**
 
 #### Awesome Lists
