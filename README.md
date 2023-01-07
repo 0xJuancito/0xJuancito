@@ -1,6 +1,6 @@
 # Gm! I'm Juancito!
 
-#### About me
+## About me
 
 - 🛠 Web3 Builder
 - 🔐 Security researcher
