@@ -2,29 +2,15 @@
 
 #### About me
 
-- 🛠 web3 builder.
-- 💎 Ethereum.
-- 🎹 Piano player integrating music and code.
-- 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens).
+- 🛠 Web3 Builder
+- 🔐 Security researcher
+- 💎 Ethereum
+- 🎹 Piano player integrating music and code
+- 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens)
 
-## Web3 Contributions
+## Web3 Security
 
-#### Decentraland
-  - [Communications Protocol v3](https://github.com/decentraland/comms-v3/blob/main/docs/comms.md)
-  - [Decentralized Content Server](https://github.com/decentraland/catalyst)
-  - [Catalysts Nodes Infrastructure](https://github.com/decentraland/catalyst-owner)
-
-#### Side Projects
-
-- [inlens](https://github.com/0xJuancito/inlens) | Find your friends from Twitter in Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
-- [Lens Lists](https://github.com/0xJuancito/lenslists) | Discover, create, and share awesome lists on Lens Protocol 🌿 | **Polygon** |  **Lens Protocol**
-- [Polytonal](https://github.com/0xJuancito/polytonal) - Track all your Harmony wallets in one place | **Harmony** | **Covalent** | 🥇 **Hackathon Winner**
-- [Non-Fungible Insurance](https://youtu.be/qzNgtgcRnwg?t=6942) - P2P Insurance for NFTs. Protect from floor price drops. | **Fantom** | **DeFi** | 🥈 **2nd place in Hackathon**
-- [Stake Together](https://github.com/nicobevilacqua/StakeTogether) - Decentralized crowdfunding for running Ethereum Validators in Latin America. | **Ethereum**
-- Music Starks - Create algorithmic music and store it on-chain | **Starknet** | 🚧 To Be Released
-
-
-#### Solidity CTF Solutions & Writeups
+### Solidity CTF Solutions & Writeups
 
 - [Capture The Ether CTF](https://github.com/0xJuancito/capture-the-ether-solutions)
 - [The Ethernaut CTF](https://github.com/0xJuancito/ethernaut-solutions)
@@ -32,34 +18,56 @@
 - [Eko 2022 CTF](https://github.com/0xJuancito/eko-2022-ctf-solutions)
 - [Quill CTF](https://github.com/0xJuancito/quill-ctf-solutions) | 🚧 **To Be Released**
 
-#### Awesome Lists
-
-- [awesome-lens-protocol](https://github.com/0xJuancito/awesome-lens-protocol) - A curated list of awesome Lens Protocol projects, resources, libraries, tools and more | **⭐️ Popular**
-- [awesome-zksync](https://github.com/0xJuancito/awesome-zksync) - A curated list of awesome zkSync resources
-- [awesome-plutus](https://github.com/0xJuancito/awesome-plutus) - A curated list of awesome Plutus resources for the Cardano platform
-
-## Web3 Competitions
-
-#### Smart Contracts Hacking
+### Smart Contracts Hacking Competitions
 
 - [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105)
 - [Paradigm CTF](https://ctf.paradigm.xyz/) | [POAP](https://app.poap.xyz/token/5580892) | 🎖 [59/414](https://ctftime.org/event/1719)
-- [DeFi Wonderland Solidity Hacking Competition](https://www.eventbrite.com.ar/e/solidity-hacking-competition-ctf-tickets-397071099347) | August 13, 2022 | 🥇 **1st place**
+- [DeFi Wonderland Solidity Hacking Competition](https://www.eventbrite.com.ar/e/solidity-hacking-competition-ctf-tickets-397071099347) | 🥇 **1st place**
 
-#### Hackathons
+## Web2 Builder
 
-- [Moralis - Defining DeFi Hackathon](https://moralis.io/google-hackathon/) | **Fantom** | 🥈 **2nd place** | [Presentation](https://youtu.be/qzNgtgcRnwg?t=6942)
-- [Encode Harmony Hackathon](https://www.encode.club/harmony-hackathon) | **Harmony** | **Covalent** | 🥇 **1st place** | [Presentation](https://www.youtube.com/watch?v=62hrsmOShhg&t=1176s)
+- 10+ years building and leading projects, designing architectures, implementing complex infrastructures
+- AWS Solutions Architect
+- More info on [LinkedIn](https://www.linkedin.com/in/juancitox/)
+- Preferred Stack: Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
+
+## Web3 Builder
+
+### Decentraland
+  - [Communications Protocol v3](https://github.com/decentraland/comms-v3/blob/main/docs/comms.md) | Player comms featuring P2P, WebRTC, LiveKit, and WS
+  - [Content Server Protocol](https://github.com/decentraland/catalyst) | File protocol for storing and distributing Decentraland assets on top of IPFS
+  - [Catalysts Nodes Network](https://github.com/decentraland/catalyst-owner) | Decentralized nodes infrastructure for the Decentraland network
+
+### Lens Protocol
+
+- [InLens](https://github.com/0xJuancito/inlens) | Find your friends from Twitter in Lens Protocol 🌿
+- [Lens Lists](https://github.com/0xJuancito/lenslists) | Discover, create, and share awesome lists on Lens Protocol 🌿
+
+### Side Projects
+
+- [Polytonal](https://github.com/0xJuancito/polytonal) - Track all your Harmony wallets in one place | **Harmony** | **Covalent** | 🥇 **[Encode Hackathon Winner](https://www.youtube.com/watch?v=62hrsmOShhg&t=1176s)**
+- [Non-Fungible Insurance](https://youtu.be/qzNgtgcRnwg?t=6942) - P2P Insurance for NFTs. Protect from floor price drops. | **Fantom** | **DeFi** | 🥈 **[Moralis Hackathon Winner](https://youtu.be/qzNgtgcRnwg?t=6942)**
+- Music Starks - Create algorithmic music and store it on-chain | **Starknet** | 🚧 To Be Released
+
+### Hackathons
+
 - [Bear Builders Hackathon](https://twitter.com/bear_builders) | [POAP](https://app.poap.xyz/token/5633444) | 🎖 **4th place** (Special mention)
   - Built [Stake Together](https://github.com/nicobevilacqua/StakeTogether) | Crowfunding Ethereum validators in Latin America
 - [HackFS by ETHGlobal](https://hackfs.com/) | [POAP](https://app.poap.xyz/token/5408677)
 - [LFGrow by ETHGlobal](https://lfgrow.ethglobal.com/) | [POAP](https://app.poap.xyz/token/4623985)
+
+### Awesome Lists
+
+- [awesome-lens-protocol](https://github.com/0xJuancito/awesome-lens-protocol) - A curated list of awesome Lens Protocol projects, resources, libraries, tools and more | **⭐️ Popular**
+- [awesome-zksync](https://github.com/0xJuancito/awesome-zksync) - A curated list of awesome zkSync resources
+- [awesome-plutus](https://github.com/0xJuancito/awesome-plutus) - A curated list of awesome Plutus resources for the Cardano platform
 
 ## Web3 Education
 
 #### Bootcamps
 
 - [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 2022 | **Cairo** | **Starknet**
+- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity** | **Security**
 
 #### Workshops
 
