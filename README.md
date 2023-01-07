@@ -3,7 +3,7 @@
 ## About me
 
 - 🛠 Web3 Builder
-- 🔐 Security researcher
+- 🔐 Security Researcher
 - 💎 Ethereum
 - 🎹 Piano player integrating music and code
 - 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens)
