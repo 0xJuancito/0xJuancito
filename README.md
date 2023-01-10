@@ -31,7 +31,7 @@
 
 ### Bootcamps
 
-- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity** | **Security**
+- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity**
 
 ## Web3 Builder
 
