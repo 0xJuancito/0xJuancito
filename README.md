@@ -10,6 +10,11 @@
 
 ## Web3 Security
 
+### Audits
+
+- [Warden at Code4rena](https://code4rena.com/) | 🚧 **To Be Released**
+- [Watson at Sherlock](https://www.sherlock.xyz/) | 🚧 **To Be Released**
+
 ### Solidity CTF Solutions & Writeups
 
 - [Damn Vulnerable DeFi](https://github.com/0xJuancito/damn-vulnerable-defi-solutions)
@@ -23,6 +28,10 @@
 - [Secureum DeFi Security Summit](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford) | [POAP](https://app.poap.xyz/token/5557105)
 - [Paradigm CTF](https://ctf.paradigm.xyz/) | [POAP](https://app.poap.xyz/token/5580892) | 🎖 [59/414](https://ctftime.org/event/1719)
 - [DeFi Wonderland Solidity Hacking Competition](https://www.eventbrite.com.ar/e/solidity-hacking-competition-ctf-tickets-397071099347) | 🥇 **1st place**
+
+### Bootcamps
+
+- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity** | **Security**
 
 ## Web2 Builder
 
@@ -62,12 +71,11 @@
 - [awesome-zksync](https://github.com/0xJuancito/awesome-zksync) - A curated list of awesome zkSync resources
 - [awesome-plutus](https://github.com/0xJuancito/awesome-plutus) - A curated list of awesome Plutus resources for the Cardano platform
 
-## Web3 Education
-
-#### Bootcamps
+### Bootcamps
 
 - [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 2022 | **Cairo** | **Starknet**
-- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity** | **Security**
+
+## Web3 Education
 
 #### Workshops
 
