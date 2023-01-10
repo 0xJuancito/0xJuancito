@@ -2,10 +2,10 @@
 
 ## About me
 
-- 🛠 Web3 Builder
 - 🔐 Security Researcher
-- 💎 Ethereum
-- 🎹 Piano player integrating music and code
+- 🚀 Web3 Builder | Solidity
+- 🛠 Platform Engineer | Node.js | Go
+- 🏗️ AWS Solutions Architect
 - 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens)
 
 ## Web3 Security
@@ -32,13 +32,6 @@
 ### Bootcamps
 
 - [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity** | **Security**
-
-## Web2 Builder
-
-- 10+ years building and leading projects, designing architectures, implementing complex infrastructures
-- AWS Solutions Architect
-- More info on [LinkedIn](https://www.linkedin.com/in/juancitox/)
-- Preferred Stack: Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
 
 ## Web3 Builder
 
@@ -75,35 +68,8 @@
 
 - [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 2022 | **Cairo** | **Starknet**
 
-## Web3 Education
+## Past Experience
 
-#### Workshops
-
-- [Starknet in Spanish](https://www.meetup.com/defilatam/events/288615331/) | [POAP](https://app.poap.xyz/token/5631142) | **Cairo** | **Starknet** | September 2022
-- ETH Latam Buenos Aires | August 11-13 2022
-  - Unlock an endless world of possibilities via CoW Protocol SDK | **Cow Protocol**
-  - Intro to Lens Protocol | **Lens Protocol**
-  - Cool projects on StarkNet that wouldn't be possible on L1 | **Cairo** | **Starknet**
-  - Getting started with Cairo for StarkNet | [POAP](https://app.poap.xyz/token/5490942) | **Cairo** | **Starknet**
-- [Plutus Pioneer Program](https://github.com/input-output-hk/plutus-pioneer-program) | **Plutus** | **Cardano** | April-June 2021
-
-#### Courses
-
-- [Blockchain, Solidity, and Full Stack Web3 Development](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | [NFT](https://stratosnft.io/juancito.eth?collections=collection%3D0xA457A0F9b6EDbEc66941D7Ed1D4d4834330ABf52%26collection%3D0xaAcb0B62aEB7Db938f12161Da0E45fC3B2B34179%26collection%3D0x9E9a4e58dDc9483d241AfC9a028E89BD9b9fa683%26collection%3D0xB29eA9ad260B6DC980513bbA29051570b2115110) | **Solidity**
-- [Buildspace](https://buildspace.so/)
-  - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/9763) | **Solidity** | **Polygon**
-  - [Build a Web3 App: Mint Your Own NFT collection](https://buildspace.so/p/mint-nft-collection) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3388) | **Solidity** | **Polygon**
-  - [Intro to Web3](https://buildspace.so/p/build-solidity-web3-app) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4827) | **Solidity** | **Polygon**
-  - [Build a Solana App](https://buildspace.so/p/build-solana-web3-app) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12597) | **Rust** | **Solana**
-  - [Solana NFT Collection](https://buildspace.so/p/ship-solana-nft-collection) | [NFT](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/12999) | **Rust** | **Solana**
-- [Crypto Zombies](https://cryptozombies.io/en/course/) | **Solidity**
-
-#### Books
-
-- [Ethereum for Web Developers](https://www.amazon.com/gp/product/1484252772) | **Ethereum** | **Solidity**
-- [How to DeFi](https://www.amazon.com/gp/product/B098GT2PSG) | **DeFi**
-- [How to DeFi: Advanced](https://www.amazon.com/gp/product/B098H215P3) | **DeFi**
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) | **Bitcoin**
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) | **Ethereum**
-- [Out of the Ether](https://www.amazon.com/gp/product/1119602939) | **Ethereum** | **History**
-- [The Infinite Machine](https://www.amazon.com/gp/product/B07X8HS2WC) | **Ethereum** | **History**
+- 10+ years building and leading projects, designing architectures, implementing complex infrastructures
+- More info on [LinkedIn](https://www.linkedin.com/in/juancitox/)
+- Latest Stack: Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
