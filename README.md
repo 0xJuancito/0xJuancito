@@ -12,8 +12,8 @@
 
 ### Audits
 
-- [Warden at Code4rena](https://code4rena.com/) | 🚧 **To Be Released**
-- [Watson at Sherlock](https://www.sherlock.xyz/) | 🚧 **To Be Released**
+- Warden at Code4rena | 🚧 **To Be Released**
+- Watson at Sherlock | 🚧 **To Be Released**
 
 ### Solidity CTF Solutions & Writeups
 
