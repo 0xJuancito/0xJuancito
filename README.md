@@ -70,6 +70,6 @@
 
 ## Past Experience
 
-- 10+ years building and leading projects, designing architectures, implementing complex infrastructures.
-- More info on [LinkedIn](https://www.linkedin.com/in/juancitox/).
-- Latest Stack: Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis.
+- 10+ years building and leading projects, designing architectures, implementing complex infrastructures
+- More info on [LinkedIn](https://www.linkedin.com/in/juancitox/)
+- Latest Stack: Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
