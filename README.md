@@ -70,6 +70,6 @@
 
 ## Past Experience
 
-- 10+ years building and leading projects, designing architectures, implementing complex infrastructures
+- I've been leading and developing projects for the past 15 years, designed the architecture of many production software systems, mentored developers, interviewed candidates, wrote and reviewed code, and coordinated strategies with stakeholders for building multiple products.
 - More info on [LinkedIn](https://www.linkedin.com/in/juancitox/)
 - Latest Stack: Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
