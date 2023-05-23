@@ -12,7 +12,7 @@
 
 ### Research
 
-[Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips for auditing protocols on multiple chains.
+- [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips for auditing protocols on multiple chains.
 
 ### Audits
 
