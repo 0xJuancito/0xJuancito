@@ -10,6 +10,10 @@
 
 ## Web3 Security
 
+### Research
+
+[Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips for auditing protocols on multiple chains.
+
 ### Audits
 
 - Warden at Code4rena | 🚧 **To Be Released**
