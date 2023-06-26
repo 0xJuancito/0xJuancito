@@ -6,7 +6,7 @@
 - 👨‍🔬 Security Researcher
 - 🛠 Platform Engineer | Node.js | Go
 - 🏗️ AWS Solutions Architect
-- 📫 You can reach me for consulting and audits on [Twitter](https://twitter.com/0xJuancito)
+- 📫 You can reach me for consulting and audits on Twitter [@0xJuancito](https://twitter.com/0xJuancito)
 
 ## Web3 Security
 
