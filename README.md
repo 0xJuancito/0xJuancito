@@ -74,4 +74,4 @@
 ## Past Experience
 
 - I've been leading and developing projects for the past 15 years, designed the architecture of many production software systems, mentored developers, interviewed candidates, wrote and reviewed code, and coordinated strategies with stakeholders for building multiple products.
-- Latest Stack: Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
+- Preferred Stack: Solidity, Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
