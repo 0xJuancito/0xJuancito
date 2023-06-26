@@ -1,12 +1,12 @@
-# Gm! I'm Juancito!
+# Gm! I'm 0xJuancito!
 
 ## About me
 
-- 🔐 Security Researcher
-- 🚀 Web3 Builder | Solidity
+- 🔐 Smart Contract Auditor | Solidity
+- 👨‍🔬 Security Researcher
 - 🛠 Platform Engineer | Node.js | Go
 - 🏗️ AWS Solutions Architect
-- 📫 You can reach me on [Twitter](https://twitter.com/0xJuancito) and [Lens](https://lenster.xyz/u/juancito.lens)
+- 📫 You can reach me for consulting and audits on [Twitter](https://twitter.com/0xJuancito)
 
 ## Web3 Security
 
