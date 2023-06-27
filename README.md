@@ -48,18 +48,12 @@
 - [InLens](https://github.com/0xJuancito/inlens) | Find your friends from Twitter in Lens Protocol 🌿
 - [Lens Lists](https://github.com/0xJuancito/lenslists) | Discover, create, and share awesome lists on Lens Protocol 🌿
 
-### Side Projects
+### Hackathon Prizes
 
 - [Polytonal](https://github.com/0xJuancito/polytonal) - Track all your Harmony wallets in one place | **Harmony** | **Covalent** | 🥇 **[Encode Hackathon Winner](https://www.youtube.com/watch?v=62hrsmOShhg&t=1176s)**
 - [Non-Fungible Insurance](https://youtu.be/qzNgtgcRnwg?t=6942) - P2P Insurance for NFTs. Protect from floor price drops. | **Fantom** | **DeFi** | 🥈 **[Moralis Hackathon Winner](https://youtu.be/qzNgtgcRnwg?t=6942)**
-- Music Starks - Create algorithmic music and store it on-chain | **Starknet** | 🚧 To Be Released
-
-### Hackathons
-
 - [Bear Builders Hackathon](https://twitter.com/bear_builders) | [POAP](https://app.poap.xyz/token/5633444) | 🎖 **4th place** (Special mention)
   - Built [Stake Together](https://github.com/nicobevilacqua/StakeTogether) | Crowfunding Ethereum validators in Latin America
-- [HackFS by ETHGlobal](https://hackfs.com/) | [POAP](https://app.poap.xyz/token/5408677)
-- [LFGrow by ETHGlobal](https://lfgrow.ethglobal.com/) | [POAP](https://app.poap.xyz/token/4623985)
 
 ### Awesome Lists
 
