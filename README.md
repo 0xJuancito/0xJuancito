@@ -36,14 +36,20 @@
 
 - [Secureum Epoch ∞](https://www.secureum.xyz/epoch0) | **Solidity**
 
-## Web3 Builder
+## Dev
 
-### Decentraland
+15 years leading and developing a wide variety of projects, designing their architecture, and infrastructure.
+
+Preferred Stack: Solidity, Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
+
+### Last web3 Projects
+
+#### Decentraland
   - [Communications Protocol v3](https://github.com/decentraland/comms-v3/blob/main/docs/comms.md) | Player comms featuring P2P, WebRTC, LiveKit, and WS
   - [Content Server Protocol](https://github.com/decentraland/catalyst) | File protocol for storing and distributing Decentraland assets on top of IPFS
   - [Catalysts Nodes Network](https://github.com/decentraland/catalyst-owner) | Decentralized nodes infrastructure for the Decentraland network
 
-### Lens Protocol
+#### Lens Protocol
 
 - [InLens](https://github.com/0xJuancito/inlens) | Find your friends from Twitter in Lens Protocol 🌿
 - [Lens Lists](https://github.com/0xJuancito/lenslists) | Discover, create, and share awesome lists on Lens Protocol 🌿
@@ -64,8 +70,3 @@
 ### Bootcamps
 
 - [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp) | September 20 - October 20 2022 | **Cairo** | **Starknet**
-
-## Past Experience
-
-- I've been leading and developing projects for the past 15 years, designed the architecture of many production software systems, mentored developers, interviewed candidates, wrote and reviewed code, and coordinated strategies with stakeholders for building multiple products.
-- Preferred Stack: Solidity, Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
