@@ -1,4 +1,4 @@
-# Gm! I'm 0xJuancito!
+# Gm! I'm juancito.eth!
 
 ## About me
 
