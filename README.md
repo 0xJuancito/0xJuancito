@@ -2,7 +2,7 @@
 
 ## About me
 
-- 👨‍🔬 Security Researcher
+- 👨‍🔬 Blockchain Security Engineer
 - 🔐 Smart Contract Auditor | Solidity
 - 🛠 Platform Engineer | Node.js | Go
 - 🏗️ AWS Solutions Architect
