@@ -17,6 +17,7 @@
 ### Research
 
 - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips for auditing protocols on multiple chains.
+- [ERC20 Addresses](https://github.com/0xJuancito/erc20-addresses) - Check ERC20 token implementations on multiple chains.
 
 ### Solidity CTF Solutions & Writeups
 
