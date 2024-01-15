@@ -40,7 +40,7 @@
 
 15 years leading and developing a wide variety of projects, designing their architecture, and infrastructure.
 
-Preferred Stack: Solidity, Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
+Preferred Stack: Solidity + Foundry, Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
 
 ### Last web3 Projects
 
