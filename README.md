@@ -25,7 +25,6 @@
 - [The Ethernaut CTF](https://github.com/0xJuancito/ethernaut-solutions)
 - [Capture The Ether CTF](https://github.com/0xJuancito/capture-the-ether-solutions)
 - [Eko 2022 CTF](https://github.com/0xJuancito/eko-2022-ctf-solutions)
-- [Quill CTF](https://github.com/0xJuancito/quill-ctf-solutions) | 🚧 **To Be Released**
 
 ### Smart Contracts Hacking Competitions
 
