@@ -4,7 +4,7 @@
 
 - 🔐 Smart Contract Auditor | Solidity
 - 👨‍🔬 Blockchain Security Engineer
-- 📫 You can reach me for audits on Twitter [@0xJuancito](https://twitter.com/0xJuancito)
+- 📫 You can reach me for audits on Twitter [@juancito](https://x.com/juancito)
 
 ## Web3 Security
 
